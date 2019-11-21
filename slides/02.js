@@ -8,18 +8,18 @@ const phil = {
 
 // navigation.js
 // ...
-const navDisplayName = `${phil.name.first} ${phil.name.lest}`
+const navDisplayName = `${phil.name.first} ${phil.name.last}`
 console.log(navDisplayName)
 // ...
 
 // profile.js
 // ...
-const profileDisplayName = `${phil.name.first} ${phil.name.lest}`
+const profileDisplayName = `${phil.name.first} ${phil.name.last}`
 console.log(profileDisplayName)
 // ...
 
 // user-card.js
 // ...
-const cardDisplayName = `${phil.name.first} ${phil.name.lest}`
+const cardDisplayName = `${phil.name.first} ${phil.name.last}`
 console.log(cardDisplayName)
 // ...
